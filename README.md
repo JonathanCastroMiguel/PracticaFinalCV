@@ -122,3 +122,14 @@ Any contributions are greatly appreciated. If you have suggestions that would ma
 
 <p align="right"><a href="#top">Back to top</a></p>
 <!-- /ACKNOWL -->
+
+
+
+Podemos usar Papper with code para buscar en RealTime Object detection on MS COCO los modelos que mejor se adaptan a nosotros
+Usar ultralytics
+
+
+Desplegar el Entorno:
+En terminal, vamos a raiz y lanzamos python -m venv .venv
+en default hay q cabiar model, data (rutas)
+optimizer
